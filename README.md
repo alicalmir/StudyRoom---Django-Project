@@ -12,17 +12,18 @@ StudyRoom is a Django web application for collaborative studying and resource sh
 - Customized user model
 
 
-
 ## Setup
 
-1. Prerequisites: [List any prerequisites, such as Python and Django version, that users should have installed before using your project.]
+1. Prerequisites:
+
+ Before you can run this project, you'll need to have the following prerequisites installed:
+- Python 3.9 or higher
+- Django 3.2.3
+  
 2. Clone the repository.
 3. Install dependencies.
 4. Run the development server.
 
-## Usage
-
-- Explain how to use the application and its core features briefly.
 
 ## Screenshots
 ![Screenshot (14)](https://github.com/alicalmir/StudyRoom---Django-Project/assets/115038084/2cc158c9-3b8c-41af-8af8-8f1c16c5cb24)
